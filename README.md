@@ -1,2 +1,2 @@
 # AbacusAIdemo
-Scripts from Abacus.Ai workshop
+Scripts from Abacus.AI workshop
